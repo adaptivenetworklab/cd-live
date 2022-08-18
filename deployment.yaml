@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: adaptivehello
-        image: adaptivenetlab/research:hello1.0
+        image: adaptivenetlab/research:hello1.1
         ports:
         - containerPort: 80
 ---
