@@ -1,6 +1,6 @@
 # Live CD
 
-Make your page live just with Git Add > Git Commit > Git Push then try to access `hello.from.adaptivenetworklab.org`
+Make your page live just with change inside HTML/ directory than Git Add > Git Commit > Git Push and try access `hello.from.adaptivenetworklab.org`
 
 ## Powered by
 - Openstack
