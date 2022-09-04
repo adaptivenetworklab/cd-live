@@ -8,3 +8,6 @@ Make your page live just with change inside HTML/ directory than Git Add > Git C
 - ArgoCD
 - Nginx
 - GitHub
+
+## Brief
+This repo will work while Kubernetes on Project Research alive.
